@@ -1,0 +1,4 @@
+/* bordure pour le svg */
+#svg_edit svg {
+    border: 1px black solid;
+}
